@@ -3,7 +3,7 @@ Simple implementation of [Conway's Game of Life](https://en.wikipedia.org/wiki/C
 
 # How to launch
 ## Prerequisites
-- `g++`
+- `g++` compiler
 - `make`
 
 With default settings:
