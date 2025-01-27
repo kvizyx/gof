@@ -1,11 +1,13 @@
-# Game of life
+# Game of Life
 Simple implementation of [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
 
-# How to launch
+# How to play
+
 ## Prerequisites
 - `g++` compiler
-- `make`
+- `make` (if you want to use build script)
 
+## Launch
 With default settings:
 ```console
 $ make
